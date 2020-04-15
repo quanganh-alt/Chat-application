@@ -1,0 +1,210 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "cwang anh",
+      "status": "true",
+      "username": "quanganh",
+      "password": "1",
+      "avatar": "https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-9/18814095_1686048605031306_4323730266814617949_n.jpg?_nc_cat=107&_nc_oc=AQnH3FZJ3VtLuGXRU7VyTQ53wFqw3S56iRcqzS6zJp4DKB5csBTR90Dq8EiHc__o30g&_nc_ht=scontent-hkg3-2.xx&oh=e1f5fbbe18f2a8b581f3efe6e450a60d&oe=5EC685CE"
+    },
+    {
+      "id": 2,
+      "name": "Dzung",
+      "status": "true",
+      "username": "dzung",
+      "password": "1",
+      "avatar": "https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/73083646_779028292556398_189014247907262464_n.jpg?_nc_cat=101&_nc_oc=AQmOYWcslFr7LKEev6GIZF25xgWtlTcZhar9SeDEyWYis_Vc4JZBbm5wNLO4j2RhsrE&_nc_ht=scontent-hkg3-1.xx&oh=bdf3dc5d83f8c48ea516b09fa1995b26&oe=5EDC225A"
+    },
+    {
+      "id": 3,
+      "name": "Tin Truong",
+      "status": "true",
+      "username": "tientp",
+      "password": "1",
+      "avatar": "https://scontent.fhan5-7.fna.fbcdn.net/v/t1.0-1/24909998_1014808098685355_3444435140399306854_n.jpg?_nc_cat=100&_nc_oc=AQkOOuBg4l4lCVWWvRkKJ2bmnPO7NutZ_GACU5Fh6T-Ivq8TumdSH3Tc4Ra3aHrcbMo&_nc_ht=scontent.fhan5-7.fna&oh=53a5f3d67a91d5b6ea55b482d6e47fd5&oe=5EBDA33C"
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "idUser": 1,
+      "content": "Chao tat ca ba con",
+      "time": "1/1/1999"
+    },
+    {
+      "id": 2,
+      "idUser": 2,
+      "content": "Chao tat ca ba con",
+      "time": "1/1/1999"
+    },
+    {
+      "id": 3,
+      "idUser": 1,
+      "content": "Chao tat ca ba con",
+      "time": "1/1/1999"
+    },
+    {
+      "idUser": 1,
+      "content": "quanganh",
+      "time": "2020-02-03T06:07:08.328Z",
+      "id": 6
+    },
+    {
+      "idUser": 1,
+      "content": "quang an",
+      "time": "2020-02-03T06:08:09.887Z",
+      "id": 7
+    },
+    {
+      "idUser": 2,
+      "content": "a",
+      "time": "2020-02-03T06:11:56.752Z",
+      "id": 8
+    },
+    {
+      "idUser": 1,
+      "content": "tien truong oi",
+      "time": "2020-02-03T15:04:40.150Z",
+      "id": 9
+    },
+    {
+      "idUser": 1,
+      "content": "asdasdasd",
+      "time": "2020-02-03T15:06:22.790Z",
+      "id": 10
+    },
+    {
+      "idUser": 1,
+      "content": "1",
+      "time": "2020-02-03T15:12:29.759Z",
+      "id": 11
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:26:53.754Z",
+      "id": 12
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:27:04.257Z",
+      "id": 13
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:27:04.576Z",
+      "id": 14
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:27:04.745Z",
+      "id": 15
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:27:04.929Z",
+      "id": 16
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:27:05.129Z",
+      "id": 17
+    },
+    {
+      "idUser": 1,
+      "content": "quang anh",
+      "time": "2020-02-03T15:28:07.201Z",
+      "id": 18
+    },
+    {
+      "idUser": 1,
+      "content": "as",
+      "time": "2020-02-03T15:31:23.185Z",
+      "id": 19
+    },
+    {
+      "idUser": 1,
+      "content": "as",
+      "time": "2020-02-03T15:32:33.032Z",
+      "id": 20
+    },
+    {
+      "idUser": 1,
+      "content": "s",
+      "time": "2020-02-03T15:33:45.992Z",
+      "id": 21
+    },
+    {
+      "idUser": 1,
+      "content": "1",
+      "time": "2020-02-03T15:34:37.895Z",
+      "id": 22
+    },
+    {
+      "idUser": 1,
+      "content": "s",
+      "time": "2020-02-03T15:36:10.240Z",
+      "id": 23
+    },
+    {
+      "idUser": 1,
+      "content": "s",
+      "time": "2020-02-03T15:37:00.175Z",
+      "id": 24
+    },
+    {
+      "idUser": 1,
+      "content": "a",
+      "time": "2020-02-03T15:37:02.575Z",
+      "id": 25
+    },
+    {
+      "idUser": 1,
+      "content": "123",
+      "time": "2020-02-03T16:23:11.357Z",
+      "id": 26
+    },
+    {
+      "idUser": 1,
+      "content": "asd",
+      "time": "2020-02-03T16:27:29.684Z",
+      "id": 27
+    },
+    {
+      "idUser": 1,
+      "content": "a",
+      "time": "2020-02-03T16:32:19.002Z",
+      "id": 28
+    },
+    {
+      "idUser": 1,
+      "content": "as",
+      "time": "2020-02-03T16:32:27.195Z",
+      "id": 29
+    },
+    {
+      "idUser": 1,
+      "content": "a",
+      "time": "2020-02-03T16:34:29.227Z",
+      "id": 30
+    },
+    {
+      "idUser": 1,
+      "content": "a",
+      "time": "2020-02-03T16:35:28.330Z",
+      "id": 31
+    },
+    {
+      "idUser": 2,
+      "content": "hello",
+      "time": "2020-02-04T01:39:34.899Z",
+      "id": 32
+    }
+  ]
+}

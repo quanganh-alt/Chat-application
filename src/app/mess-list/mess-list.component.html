@@ -1,0 +1,18 @@
+<div class="container mess-list row" >
+  <app-user-list class="col-md-3"></app-user-list>
+  <div class="col-md-9">
+    <h3>{{username}}</h3>
+    <div id="messageBody" style="height: 500px; overflow: auto">
+      <app-mess-tag
+        *ngFor="let mess of messList;index as i"
+        [avatar]="getuser(mess.idUser)?.avatar" [name]="getuser(mess.idUser)?.name" [content]="mess.content" [idUser]="mess.idUser"  [time]="mess.time">
+      </app-mess-tag>
+    </div>
+
+    <app-send-mess [idUser]="idUser"></app-send-mess>
+    <button (click)="logout()">Logout</button>
+  </div>
+
+</div>
+
+
